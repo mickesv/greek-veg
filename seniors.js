@@ -10,6 +10,7 @@ var seniors = [
     {name: "Robert Feldt",      hindex: 41, totPubs: 259, pubsAfter: 21, latestFirstAuthor: 2021},
     {name: "Samuel Fricker",    hindex: 22, totPubs: 112, pubsAfter: 2, latestFirstAuthor: 2022},
     {name: "Davide Fucci",      hindex: 18, totPubs: 76, pubsAfter: 1, latestFirstAuthor: 2022},
+    {name: "Javier Huerta",     hindex: 13, totPubs: 70, pubsAfter: 5, latestFirstAuthor: 2022},
     {name: "Tony Gorschek",     hindex: 47, totPubs: 215, pubsAfter: 17, latestFirstAuthor: 2021},
     {name: "Niklas Lavesson",   hindex: 21, totPubs: 92, pubsAfter: 46, latestFirstAuthor: 2014},
     {name: "Michael Mattsson",  hindex: 17, totPubs: 34, pubsAfter: 5, latestFirstAuthor: 2006},
